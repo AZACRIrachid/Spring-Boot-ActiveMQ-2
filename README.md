@@ -1,1 +1,1 @@
-# Spring-Boot-ActiveMQ-2
+# Spring-Boot-ActiveMQ-Standalone
