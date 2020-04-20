@@ -14,11 +14,6 @@ import org.springframework.jms.annotation.EnableJms;
 @Configuration
 public class Config {
 
-
-
-
-
-
     @Bean
     public Queue queue(){
         return new ActiveMQQueue("standalone.queue");
